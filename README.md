@@ -6,11 +6,11 @@ I’m a web developer and designer who strives to build high-quality web experie
 
 ## 🛠️ Tech Stack
 
-- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, Next.js, React, React Native, Astro
-- **Styling & Design:** CSS3, SASS (SCSS), Tailwind CSS, Figma, Storybook
-- **Backend & Tools:** Node.js, Express, Bun, Supabase, PostgreSQL, Prisma, Socket.io, MongoDB, Git
-- **Testing & QA:** Jest, Vitest
-- **Other:** GSAP, Motion
+- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, Next.js, React, React Native.
+- **Styling & Design:** CSS3, SASS (SCSS), Tailwind CSS, Figma, Storybook, Styled components.
+- **Backend & Tools:** Node.js, Express, Bun, Supabase, PostgreSQL, Prisma, Socket.io, MongoDB, Git.
+- **Testing & QA:** Jest, Vitest.
+- **Other:** GSAP, Motion.
 
 ---
 
