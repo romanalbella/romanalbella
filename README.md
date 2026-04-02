@@ -27,9 +27,9 @@ I’m a web developer and designer who strives to build high-quality web experie
 
 ## 📫 Let’s Connect
 
-| 💼 LinkedIn | ⚫️ X | 🐙 GitHub | 📧 Email |
-| :--------: | :--------: | :-------: | :------: |
-| [in/roman-albella](https://linkedin.com/in/roman-albella) | [@romanalbella](https://x.com/romanalbella) | [@romanalbella](https://github.com/romanalbella) | [romanetdev@gmail.com](mailto:romanetdev@gmail.com) |
+| 💼 LinkedIn | 🐙 GitHub | 📧 Email |
+| :--------: | :-------: | :------: |
+| [in/roman-albella](https://linkedin.com/in/roman-albella) | [@romanalbella](https://github.com/romanalbella) | [romanetdev@gmail.com](mailto:romanetdev@gmail.com) |
 
 ---
 
