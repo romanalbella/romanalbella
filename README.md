@@ -30,7 +30,3 @@ I’m a web developer and designer who strives to build high-quality web experie
 | 💼 LinkedIn | 🐙 GitHub | 📧 Email |
 | :--------: | :-------: | :------: |
 | [in/roman-albella](https://linkedin.com/in/roman-albella) | [@romanalbella](https://github.com/romanalbella) | [romanetdev@gmail.com](mailto:romanetdev@gmail.com) |
-
----
-
-> *See you around!*
