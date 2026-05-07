@@ -1,15 +1,16 @@
 # Hi, I’m Román 👋
 
-I’m a web developer and designer who strives to build high-quality web experiences through clean, maintainable code and thoughtful design. I’m currently working full-time as a Senior Frontend Developer.
+I’m a Full Stack Developer and designer who strives to build high-quality web and mobile experiences through clean, maintainable code and thoughtful design. I’m currently working full-time as a Senior Frontend Developer.
 
 ---
 
 ## 🛠️ Tech Stack
 
 - **Languages & Frameworks:** JavaScript (ES6+), TypeScript, Next.js, React, React Native.
-- **Styling & Design:** CSS3, SASS (SCSS), Tailwind CSS, Figma, Storybook, Styled components.
+- **Styling & Design:** CSS3, SASS (SCSS), Tailwind CSS, Figma, Storybook, Styled Components.
 - **Backend & Tools:** Node.js, Express, Bun, Supabase, PostgreSQL, Prisma, Socket.io, MongoDB, Git.
-- **Testing & QA:** Jest, Vitest.
+- **DevOps & Cloud:** Cloudflare, GitHub Actions, Vercel.
+- **Testing & QA:** Jest, React Testing Library, Vitest.
 - **Other:** GSAP, Motion.
 
 ---
